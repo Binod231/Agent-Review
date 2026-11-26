@@ -1,0 +1,25 @@
+{
+  "label": "v1",
+  "run_id": "v1-1795674198",
+  "total_requests": 65,
+  "unique_orders_sent": 50,
+  "duplicate_retries_sent": 15,
+  "wall_time_s": 3.71,
+  "http_status_counts": {
+    "503": 37,
+    "200": 28
+  },
+  "http_2xx_rate_pct": 43.1,
+  "http_failed_requests": 37,
+  "latency_p50_ms": 948.5,
+  "latency_p95_ms": 2300.1,
+  "latency_p99_ms": 2348.0,
+  "expected_unique_orders": 50,
+  "stored_unique_orders": 24,
+  "data_loss_orders": 26,
+  "ledger_tx_count": 28,
+  "duplicate_ledger_tx": 4,
+  "expected_ledger_cents": 125000,
+  "actual_ledger_cents": 70000,
+  "ledger_drift_cents": -55000
+}
